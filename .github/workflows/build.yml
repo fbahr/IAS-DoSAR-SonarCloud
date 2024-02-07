@@ -5,7 +5,7 @@ on:
       - main
 jobs:
   sonarcloud:
-    if: ${{ hashFiles('sonar-project.properties') != '' }}
+    if: ${{ always() && hashFiles('sonar-project.properties') }}
     name: SonarCloud
     runs-on: ubuntu-latest
     steps:
