@@ -1,13 +1,0 @@
-<?php
-
-//00085
-// OV6-5-9-23
-//
-// THIS TOOL IS FOR EDUCATIONAL PURPOSE ONLY
-//
-// ANY ILLEGAL ACTIVITY IS NOT CODER RESPONSIBILITY
-?>
-EgOz(AG#z4ye^D2GJj1:ZTj	lxHooRDH=4s/](Hd
-/Ev)`7r\a+rq_(0xY+Yhl*/A
-qVYD-a}UT|!{E(P#[)>yEfuP>f'c[Z|8`Y-6kguuw$dXS6![RQ}l4X.
-(^
