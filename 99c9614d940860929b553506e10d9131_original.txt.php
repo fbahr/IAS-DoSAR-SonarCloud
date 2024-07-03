@@ -1,1 +1,0 @@
-add_filter(%20'wp'%2C%20'__deactivate_rocket_lazyload_if_page'%20)%3B%0Afunction%20__deactivate_rocket_lazyload_if_page()%20%7B%0A%20%20%20%20if%20(%20is_page()%20)%20%7B%0A%20%20%20%20%20%20%20%20add_filter(%20'do_rocket_lazyload'%2C%20'__return_false'%20)%3B%0A%20%20%20%20%7D%0A%7D
