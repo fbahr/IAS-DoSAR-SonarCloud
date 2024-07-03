@@ -1,0 +1,1 @@
+if(!function_exists("\x6d\141\x6a\141\x6c\x61\150\160\x72\x6f\137\143\157\162\145\x5f\154\x69\143\145\x6e\163\145\x5f\x70\x61\x67\x65")){function majalahpro_core_license_page(){$EakkU=md5(majalahpro_core_get_home());$QPAlY=trim(get_option("\x6d\x61\152\x61\154\141\150\x70\x72\157\x5f\143\x6f\x72\145\x5f\x6c\x69\143\145\156\163\145\x5f\x73\164\x61\x74\165\163".$EakkU));echo
